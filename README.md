@@ -1,6 +1,6 @@
 # Fitness Tracker Application
 
-![Screenshot (63)](https://github.com/nidalsj/OneFitness/assets/92546712/f3c8a386-ffc7-47bf-9ae3-5690b950b526)
+![fc2](https://github.com/AbhayBS85/project1/assets/170399684/b4791cee-3a18-4cdb-b089-9dc8b0062183)
 
 ## Table of Contents
 1. [Introduction](#introduction)
